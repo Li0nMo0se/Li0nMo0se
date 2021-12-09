@@ -1,4 +1,4 @@
-# 👋, I'm Ilan. Nice to connect! 
+# 👋 I'm Ilan. Nice to connect! 
 
 I am currently a Computer Science student (year 5) genuinely interested in:
 * GPU parallel programming
