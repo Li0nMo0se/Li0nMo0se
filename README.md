@@ -10,7 +10,7 @@ I am currently a Computer Science student (year 5) genuinely interested in:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Li0nMo0se&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li0nMo0se&hide=makefile,jupyter%20notebook,javascript,html&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li0nMo0se&hide=makefile,jupyter%20notebook,javascript,html,roff,shell,c,assembly,m4&langs_count=4" />
 </a>
 
 ## 📫 How to reach me:
